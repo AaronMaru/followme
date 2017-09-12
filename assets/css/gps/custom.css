@@ -1,0 +1,27 @@
+.ibox-tools a {
+    cursor: pointer;
+    margin-left: 5px;
+    color: #00adef;
+}
+.fancybox img {
+    margin-bottom: 0;
+    width: 47%;
+    float: left;
+    margin: 4px;
+}
+.fancybox img.list-paid-img {
+    margin-bottom: 0;
+    width: 30%;
+    float: left;
+    margin: 4px;
+}
+h6 {
+	font-size: 18px;
+}
+.dt-button > span{
+    display: none;
+}
+
+.dt-button{
+    margin-left: 5px;
+}
